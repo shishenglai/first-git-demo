@@ -7,6 +7,8 @@ public class HelloWorld {
         System.out.println("Hello World.");
 
         System.out.println("第二次推送数据");
+
+        System.out.println("第一次在dev分支上推送数据");
     }
 }
 
